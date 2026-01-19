@@ -11,7 +11,14 @@
 </p>
 
 <br>
-<img align="right" alt="WakaTime Stats" width="420" src="./wakatime-stats.svg" />
+
+<p align="center">
+  <img src="/Certificates/IMG_0523.JPG" width="160" />
+  <img src="/Certificates/IMG_0524.JPG" width="160" />
+  <img src="/Certificates/IMG_0525.JPG" width="160" />
+  <img src="/Certificates/IMG_0526.JPG" width="160" />
+</p>
+
 
 🎓 **Bachelor of Computers and Artificial Intelligence** - Cairo University 2024 <br>
 👨‍💻 **Backend Developer** with expertise in **.NET Core** and **C#** <br>
@@ -45,12 +52,6 @@
   <img src="https://streak-stats.demolab.com/?user=Mostafa-Emad-TM&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 </div> -->
 
-<p align="center">
-  <img src="./Certificates/IMG_0523.JPG" width="140" />
-  <img src="./Certificates/IMG_0524.JPG" width="140" />
-  <img src="./Certificates/IMG_0525.JPG" width="140" />
-  <img src="./Certificates/IMG_0526.JPG" width="140" />
-</p>
 
 
 <details>
